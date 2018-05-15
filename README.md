@@ -1,4 +1,4 @@
-# ner-name
+# ner-de
 Optimized NER for german language with spaCy
 
 ## Setup Instructions:
