@@ -1,0 +1,10 @@
+models/
+projects/
+data/
+logs/
+.idea/
+chat_mockup_gui/node_modules/
+
+*.log
+*.pyc
+*.swp
